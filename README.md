@@ -18,4 +18,4 @@ I am a student who is interested in the field of software development, especiall
 - <a href="https://linkedin.com/in/karinauliap/">LinkedIn</a>
 - karinauliap@gmail.com
 - <a href="https://instagram/karinauliapp">Instagram</a>
-- <a hrefe="https://www.behance.net/karinaulia">Behance</a>
+- <a href="https://www.behance.net/karinaulia">Behance</a>
